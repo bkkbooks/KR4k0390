@@ -1,0 +1,37 @@
+canonical_identifier: bkk:krp/KR4k0390/v1
+canonical_location: https://kanripo.org/bkk/KR4k0390/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 蕭方等三十國春秋一卷
+  identifiers:
+    krp: KR4k0390
+  tags:
+    kr-categories: KR4k
+    tls-dates: dat04500
+  source:
+    repository: tls-texts
+    path: data/tls/KR4k0390.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 1, filename: KR4k0390_001.yaml, hash: 'sha256:84d226bb61757c4d82ecb72e7e8a50bdda5b2651ec82c4eea4cd9c3518d9fa49'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR4k0390_001.markers.yaml, hash: 'sha256:8a78f5cf27912de2aadcc34e059d619861d7eeb5f2e2a55704e96e07dae7a1f6'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR4k0390_CHANT_001-1a.1-h
+    span:
+    - body
+    - 0
+    - 6345
+  label: 蕭方等三十國春秋
+  type: section
+  level: 1
+hash: sha256:efed0b402013ed6c936ff2223442d5c0a91c81774b3ee3b4563b5a3f28e645b3
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
