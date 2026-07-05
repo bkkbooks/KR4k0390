@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR4k0390_001.yaml, hash: 'sha256:84d226bb61757c4d82ecb72e7e8a50bdda5b2651ec82c4eea4cd9c3518d9fa49'}
+  - {seq: 1, filename: KR4k0390_001.yaml, hash: 'sha256:4f10228a2593f869fe0959745891b09020f8e68303fb017bdafe7242509f47dc'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR4k0390_001.markers.yaml, hash: 'sha256:8a78f5cf27912de2aadcc34e059d619861d7eeb5f2e2a55704e96e07dae7a1f6'}
+  - {seq: 1, role: markers, filename: assets/KR4k0390_001.markers.yaml, hash: 'sha256:e5e60fbcc5b85ae9b172dbfcd51d745123b59236c3d908e16a3901749a226604'}
 table_of_contents:
 - ref:
     seq: 1
@@ -31,7 +31,4 @@ table_of_contents:
   label: 蕭方等三十國春秋
   type: section
   level: 1
-hash: sha256:efed0b402013ed6c936ff2223442d5c0a91c81774b3ee3b4563b5a3f28e645b3
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:85be78b896ca49eb3b85a9104d079ef58b40e8a2e041a4be550df6f4b971052f
