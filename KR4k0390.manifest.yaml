@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR4k0390/v1
 canonical_location: https://kanripo.org/bkk/KR4k0390/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 蕭方等三十國春秋一卷
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR4k0390_001.yaml, hash: 'sha256:4f10228a2593f869fe0959745891b09020f8e68303fb017bdafe7242509f47dc'}
+  - {seq: 1, filename: KR4k0390_001.yaml, hash: 'sha256:e85dd3afabee1fcc6fad8028ae8d18fa639c2375f1e2c51cf9c7e0bbe20e49ab'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR4k0390_001.markers.yaml, hash: 'sha256:e5e60fbcc5b85ae9b172dbfcd51d745123b59236c3d908e16a3901749a226604'}
+  - {seq: 1, role: markers, filename: assets/KR4k0390_001.markers.yaml, hash: 'sha256:6ca04383390c3b386d0724f8d21d59a702baa482b6d420683eb8db5aea52afe6'}
 table_of_contents:
 - ref:
     seq: 1
@@ -31,4 +31,7 @@ table_of_contents:
   label: 蕭方等三十國春秋
   type: section
   level: 1
-hash: sha256:85be78b896ca49eb3b85a9104d079ef58b40e8a2e041a4be550df6f4b971052f
+hash: sha256:ae8783d524a2591279c64b02aeeab27c1d29cc234ab1f62474a4bda488947905
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
